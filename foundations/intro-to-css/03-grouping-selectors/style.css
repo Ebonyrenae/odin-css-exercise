@@ -1,1 +1,19 @@
 /* Add CSS Styling */
+
+.yes,.no{
+    font-size: 28px;
+    width: "";
+    font-family:"Helvetica" ,"Times New Roman", "sans-serif" ;
+}
+
+.yes{
+    background-color: black;
+    color: white;
+    font-weight: 200\;
+}
+
+.no{
+    background-color: yellow;
+    color: black;
+    
+}

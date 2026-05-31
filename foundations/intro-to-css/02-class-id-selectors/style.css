@@ -1,1 +1,37 @@
 /* Add CSS Styling */
+.red{
+    background-color:rgb(217, 156, 156);
+    font-size: 30px;
+    font-weight: 200;
+}
+
+.red.three{
+    font-size: 40px;
+}
+
+.blue{
+    color:blue;
+    font-size: 50px;
+    font-weight: 100;
+}
+
+.green{
+    background-color:rgb(163, 232, 163);
+    font-size: 30px;
+    font-weight: 200;
+}
+#num2{
+    color: blue;
+    font-size: 50px;
+
+
+}
+
+#num4{
+    
+    font-weight: 300;
+    background-color: rgb(165, 241, 89);
+    font-size: 60px;
+
+
+}
